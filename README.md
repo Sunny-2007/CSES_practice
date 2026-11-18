@@ -9,10 +9,3 @@
 ```
 
 `ai_optimized.cpp` 只在**自己 AC 之後**才加上，用來對照與學習，不是拿來交題的。
-
-## 進度
-
-| 分類 | 題目 | AI 對照 |
-|---|---|---|
-| Dynamic Programming | [1633 Dice Combinations](https://cses.fi/problemset/task/1633) | |
-| Dynamic Programming | [1634 Minimizing Coins](https://cses.fi/problemset/task/1634) | ✅ |
