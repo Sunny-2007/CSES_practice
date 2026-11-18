@@ -7,4 +7,5 @@
 
 # 除錯符號、草稿
 *.dSYM/
-temp.cpp
+temp*.cpp
+cses.cpp
